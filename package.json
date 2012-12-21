@@ -1,0 +1,20 @@
+{
+  "name": "thug-encrypt",
+  "version": "0.0.1",
+  "description": "A thug filter module for encrypting passwords",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tom",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "~0.7.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  }
+}
